@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Aldrich&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-digital: "Share Tech Mono", monospace;
+  --font-casio: "Aldrich", sans-serif;
+}
+
